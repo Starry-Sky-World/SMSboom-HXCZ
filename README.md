@@ -233,7 +233,7 @@ Donation is not available at the moment.
 
 ## Star ♥ 趋势图
 
-<img src="https://starchart.cc/OpenEthan/smsboom.svg">
+<img src="https://starchart.cc/SuperLinkStudio/SMSboom-HXCZ" />
 
 ## ✨Discussion
 
