@@ -36,7 +36,7 @@
 
 #### Step1. 下载 EXE 可执行文件
 
- 请移步到项目的 [release页](https://github.com/OpenEthan/SMSBoom/releases) 下载
+ 请移步到项目的 [release页](https://github.com/SuperLinkStudio/SMSboob-HXCZ/releases) 下载
 
  > 若遇到国内网络环境下载不下来,请参见 [https://github.do/](https://github.do/) 等加速镜像.
 
