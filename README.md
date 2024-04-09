@@ -34,15 +34,15 @@
 
 🔨作者的打包环境为: `Windows 10 x64 Python3.8` 如果 Windows 系统不是 **Windows 10 64位** 版本,**可能会运行失败**! 如果出现异常报错请截图发 Issue.
 
-#### Step1. 下载 EXE 可执行文件
+#### Step1. 下载 *.py 文件
 
- 请移步到项目的 [release页](https://github.com/SuperLinkStudio/SMSboob-HXCZ/releases) 下载
+ 请移步到项目的 [release](https://github.com/SuperLinkStudio/SMSboob-HXCZ/releases) 下载
 
  > 若遇到国内网络环境下载不下来,请参见 [https://github.do/](https://github.do/) 等加速镜像.
 
 #### Step2 运行  
 
-1. 在任意盘(**除C盘外**)中新建一个文件夹.将程序移动到其中. e.g.  
+1. 在任意盘中新建一个文件夹.将程序移动到其中. e.g.  
 ![img](https://cdn.jsdelivr.net/gh/OpenEthan/SMSBoom@master/img/e.g.1.png)
 
 2. `Win`+`R` 打开cmd.输入存放的盘符.例如: `E:` 然后cd到文件夹,例如 `cd SMS`
@@ -54,7 +54,7 @@
 4. 使用前必须更新一遍最新接口
 
 ```shell
-smsboom_pyinstall.exe update
+smsboom.py update
 ```
 
 > 若更新接口出现错误 `ssl_`, 请参见 [issue](https://github.com/OpenEthan/SMSBoom/issues/2) **关闭代理软件**再 update.
@@ -64,31 +64,31 @@ smsboom_pyinstall.exe update
 启动64个线程,轰//炸一个人的手机号(198xxxxxxxx),只轰//炸一波。
 
 ```shell
-smsboom_pyinstall.exe run -t 64 -p 198xxxxxxxxx
+smsboom.py run -t 64 -p 198xxxxxxxxx
 ```
 
 启动64个线程,轰//炸一个人的手机号(19xxxxxxx),启动循环轰//炸, 轮番轰//炸60次
 
 ```shell
-smsboom_pyinstall.exe run -t 64 -p 198xxxxxxxxx -f 60
+smsboom.py run -t 64 -p 198xxxxxxxxx -f 60
 ```
 
 启动64个线程,轰//炸一个人的手机号(19xxxxxxx),启动循环轰//炸, 轮番轰//炸60次, 每次间隔30秒
 
 ```shell
-smsboom_pyinstall.exe run -t 64 -p 198xxxxxxxxx -f 60 -i 30
+smsboom.py run -t 64 -p 198xxxxxxxxx -f 60 -i 30
 ```
 
 启动64个线程,轰//炸一个人的手机号(19xxxxxxx),启动循环轰//炸, 轮番轰//炸60次, 每次间隔30秒, 开启代理列表进行轰炸
 
 ```shell
-smsboom_pyinstall.exe run -t 64 -p 198xxxxxxxxx -f 60 -i 30 -e
+smsboom.py run -t 64 -p 198xxxxxxxxx -f 60 -i 30 -e
 ```
 
 启动64个线程,轰//炸多个人的手机号(138xxx,139xxxx),启动循环轰//炸, 轮番轰炸60次, 每次间隔30秒, 开启代理列表进行轰炸
 
 ```shell
-smsboom_pyinstall.exe run -t 64 -p 138xxxxxxxx -p 139xxxxxxxx -f 60 -i 30 -e
+smsboom.py run -t 64 -p 138xxxxxxxx -p 139xxxxxxxx -f 60 -i 30 -e
 ```
 
 ### Development
