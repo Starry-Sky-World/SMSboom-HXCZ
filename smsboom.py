@@ -177,7 +177,7 @@ def oneRun(phone):
 @click.command()
 def update():
     """从 github 获取最新接口"""
-    apiList = ['https://hk1.monika.love/OpenEthan/SMSBoom/master/','https://download.superlinkstudio.top/smsboom/']
+    apiList = ['https://hk1.monika.love/OpenEthan/SMSBoom/master/','https://docs.superlinkstudio.top/File/smsboom/']
     apiS = int(input("选择更新的apiS接口[0.自带  1.SuperLinkStudioCloud]:"))
     GETAPI_json_url = f"{apiList[apiS]}GETAPI.json"
     API_json_url = f"{apiList[apiS]}api.json"
