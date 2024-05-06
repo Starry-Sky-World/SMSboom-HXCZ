@@ -1,5 +1,8 @@
 # SMSBoom -  SuperLinkStudio焕新重制版
 
+> 哈哈哈！我回来继续写了！（本人小学生，更新不容易）
+
+
 ![logo](img/smsboom-logo.png)
 
 ![test](img/test2.gif)
