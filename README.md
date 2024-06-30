@@ -3,7 +3,7 @@
 > 哈哈哈！我回来继续写了！（本人小学生，更新不容易）
 
 
-![logo](img/smsboom-logo.png)
+![SMSboom-HXCZ](https://socialify.git.ci/SuperLinkStudio/SMSboom-HXCZ/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
 
 ![test](img/test2.gif)
 
