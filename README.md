@@ -1,6 +1,6 @@
-# SMSBoom -  SuperLinkStudio焕新重制版
+# SMSBoom -  焕新重制版
 
-> tip:本仓库暂时停止更新！\
+> tip:本仓库暂时停止更新！请看：https://starry-sky-world.github.io/notice \
 > 推流：免费翻墙就来[Starry-Sky-World/BPB-Worker-Panel-Chinese](https://github.com/Starry-Sky-World/BPB-Worker-Panel-Chinese),基于Cloudflare Worker服务，简单易部署！有问题提Issue
 
 
