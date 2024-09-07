@@ -1,6 +1,6 @@
 # SMSBoom -  焕新重制版
 
-> tip:本仓库暂时停止更新！请看：https://starry-sky-world.github.io/notice \
+> tip:本仓库已归档（作者学业问题），感谢各位近6个月的支持，谢谢！联系方式：liu_qinyu@outlook.com \
 > 推流：免费翻墙就来[Starry-Sky-World/BPB-Worker-Panel-Chinese](https://github.com/Starry-Sky-World/BPB-Worker-Panel-Chinese),基于Cloudflare Worker服务，简单易部署！有问题提Issue
 
 
